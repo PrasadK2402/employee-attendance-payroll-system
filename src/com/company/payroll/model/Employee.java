@@ -65,7 +65,6 @@ public class Employee {
                 ", empId=" + empId +
                 ", name='" + name + '\'' +
                 ", department='" + department + '\'' +
-                "baseSalary=" + baseSalary +
                 ", joinDate=" + joinDate +
                 '}';
     }
